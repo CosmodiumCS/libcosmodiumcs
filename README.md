@@ -1,6 +1,6 @@
 # libcosmodiumcs
 
-# Debugging Style Guide
+## Debugging Style Guide
 Input:
 ```c
 // debugging & logging example
