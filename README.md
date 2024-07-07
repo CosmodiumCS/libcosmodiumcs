@@ -1,5 +1,18 @@
 # libcosmodiumcs
 
+## Install
+...
+
+## Use
+```c
+include "cosmodiumcs.h"
+```
+
+## Compile
+```
+gcc -o main main.c -L. -lcosmodiumcs
+```
+
 ## Debugging Style Guide
 Input:
 ```c

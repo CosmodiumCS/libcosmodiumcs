@@ -2,7 +2,6 @@
 // created by : bluecosmo
 
 // imports
-#include <stdio.h>
 #include <stdlib.h>
 #include "cosmodiumcs.h"
 
